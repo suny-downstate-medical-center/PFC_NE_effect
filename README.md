@@ -24,7 +24,7 @@ The study aims to:
 ## Methodology
 This project employs:
 - **Computational models using NetPyNE** for network simulations.
-- **LFP and spike data analysis** to measure power spectral density, modulation index, and avalanche dynamics.
+- **LFP and spike data analysis** to measure power spectral density, modulation index.
 - **F-I curve tuning** to calibrate IT and PT neuron responses to experimental data.
 - **Comparison of control and Parkinsonian conditions** to understand IT and PT contributions to disease-related network changes.
 
